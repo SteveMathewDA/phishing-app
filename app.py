@@ -115,6 +115,7 @@ def display_content(dataset, model):
     
 
 st.title('Prediction of Phishing Attacks using XAI: Results')
+st.write('#### CSE3502 J Component by 20MIS0047, 20MIS0054 and 20MIS0137')
 
 # Display the dataframe as a table
 st.write('## Result Summary')
